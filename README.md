@@ -2,7 +2,6 @@
 <html dir="ltr" lang="en">
   <head>
     <meta charset="utf-8">
-    <title>New Tab</title>
     <style>
       body {
         background: #3F5A8D;
